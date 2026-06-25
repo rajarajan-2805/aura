@@ -11,7 +11,7 @@ Aura is a privacy-first Progressive Web App (PWA) that helps users track and imp
 India faces a critical mental health crisis with:
 - **10%+ of adults** affected by mental health issues
 - **70%+ treatment gap** due to stigma, cost, and accessibility barriers
-- **150M+ youth** lacking access to professional mental health support
+- **150M+ youth** lacking access to professional mental health support 
 
 Aura addresses this by providing an accessible, judgment-free space for emotional expression and self-discovery, leveraging open-source AI to democratize mental wellness tools.
 
